@@ -11,11 +11,9 @@ This guide will be reviewed and updated on each Friday of the week.
 # Organization
 ## ToDo
 
-Label with:
+### Label with:
 -	Priority
-   -	e.g. 1 - provide report to Donna
 -	Due Date
 -	Most recent update
--	e.g. 11/12 - needs special ID before proceeding
 -	Reprioritize daily
 -	Track extensive tasks as lists small as singular tasks
