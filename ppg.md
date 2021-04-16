@@ -1,6 +1,6 @@
 # Professional Process Guide
 
-Version 1
+Version 2
 
 # Overview
 
@@ -48,10 +48,10 @@ This guide will be reviewed and updated on each Friday of the week.
 - Manage schedule and request removal from unneeded meetings
 - Offer to share meeting notes with those involved
 
-## Internal Work
-- Life Sciences?
-- Analytics (simulation)?
-- Gain network, skills, and exposure
+~~## Internal Work
+- Life Sciences?~~
+~~- Analytics (simulation)?
+- Gain network, skills, and exposure~~
 
 # Delvierables
 ## Process
@@ -69,3 +69,11 @@ This guide will be reviewed and updated on each Friday of the week.
 - Deliver all work output to a recipient
 - Store each deliverable in a shared location
 - Request Feedback
+
+# Reflection
+## Weekly Meeting
+- Complete PPG Checklist
+- What did I do well?
+- What could I do better?
+- What actions can I take?
+- Revise PPG
